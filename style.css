@@ -3,12 +3,14 @@
     background-color: rgba(130, 146, 141, 0.884);
     margin: 0 auto;
     padding: 15px;
+
 }
 .header{
     text-align: center;
     color: blue;
 }
 .fooder{
+    background-color: rgba(109, 104, 97, 0.253);
     color: darkred;
     text-align: center;
 }
